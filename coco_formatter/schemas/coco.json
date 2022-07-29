@@ -1,0 +1,21 @@
+{
+    "info": {
+        "description": "Coco Json Format",
+        "url": "http://mapilio.com/",
+        "version": 0.3,
+        "year": "None",
+        "contributer": "mapilio (c)",
+        "data_created": "None"
+    },
+    "licenses": [
+        {
+            "url": "https://visiosoft.com.tr/",
+            "id": 0,
+            "name": "Visosoft"
+        }
+    ],
+    "type": "instances",
+    "categories" : [
+
+    ]
+}
