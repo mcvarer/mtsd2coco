@@ -1,0 +1,6 @@
+{
+  "rootPath": "MapillaryTrafficSignDataset/zip/mtsd_fully_annotate_annotation/mtsd_v2_fully_annotated",
+  "imagesPath": "MapillaryTrafficSignDataset/zip/mtsd_partially_imgs",
+  "annotations" : "annotations",
+  "labels": "labels.json"
+}
